@@ -9,3 +9,7 @@ body{
 h1,h2,h3,p{
     text-align: center;
 }
+div{
+    width: 100px;
+    background-color: lavenderblush
+}
